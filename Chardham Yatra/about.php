@@ -16,7 +16,7 @@
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-<a class="navbar-brand" href="/om/Chardham Yatra/index.php">Chardham Yatra</a>
+<a class="navbar-brand" href="/Chardham Yatra/index.php">Chardham Yatra</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -24,16 +24,16 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
       <li class="nav-item active">
-        <a class="nav-link" href="/om/Chardham Yatra/index.php">Home <span class="sr-only">(current) </span></a>
+        <a class="nav-link" href="/Chardham Yatra/index.php">Home <span class="sr-only">(current) </span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/om/Chardham Yatra/about.php">About</a>
+        <a class="nav-link" href="/Chardham Yatra/about.php">About</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/om/Chardham Yatra/pricing.php">Pricing</a>
+        <a class="nav-link" href="/Chardham Yatra/pricing.php">Pricing</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/om/Chardham Yatra/contact.php">Contact</a>
+        <a class="nav-link" href="/Chardham Yatra/contact.php">Contact</a>
       </li>
     </ul>
   </div>
